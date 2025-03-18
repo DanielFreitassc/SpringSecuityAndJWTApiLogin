@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "api.security.token.secret",
+    "type": "java.lang.String",
+    "description": "Pega o valor da variavel de ambiente de secret para gerar token"
+  },
+  {
+    "name": "admin.password",
+    "type": "java.lang.String",
+    "description": "Pega o valor da variavel de ambiente para gerar uma senha para admin"
+  },
+  {
+    "name": "admin.username",
+    "type": "java.lang.String",
+    "description": "Pega o valor da variavel de ambiente para gerar nome de admin"
+  }
+]}
